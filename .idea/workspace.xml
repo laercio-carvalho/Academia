@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="998b2d58-735f-49ea-acdd-41cc45a57234" name="Changes" comment="">
+    <list default="true" id="998b2d58-735f-49ea-acdd-41cc45a57234" name="Changes" comment="Correcao na classe AlunoMensal.java que mostrava null na hora de executar no metodo main.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/padrao/AlunoMensal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/padrao/AlunoMensal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/padrao/AlunoSemestral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/padrao/AlunoSemestral.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669634304283</updated>
     </task>
+    <task id="LOCAL-00001" summary="Correcao na classe AlunoMensal.java que mostrava null na hora de executar no metodo main.">
+      <created>1669729125722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669729125722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Correcao na classe AlunoMensal.java que mostrava null na hora de executar no metodo main." />
+    <option name="LAST_COMMIT_MESSAGE" value="Correcao na classe AlunoMensal.java que mostrava null na hora de executar no metodo main." />
   </component>
 </project>
